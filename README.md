@@ -22,7 +22,7 @@ A robust and minimalistic **oil pressure + temperature gauge** for automotive or
 | **MCU**          | [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero) |
 | **Display**      | [0.96" SPI TFT LCD with ST7735S driver](https://a.aliexpress.com/_Exmp90m) |
 | **Sensor**       | [Bosch Motorsport 10 bar](https://www.bosch-motorsport.com/content/downloads/Raceparts/en-GB/54249355.html) – **combined oil pressure and NTC temperature** |
-| **Power Supply** | 5V input (USB or regulator), 3.3V used for logic
+| **Power Supply** | 5V input (USB or regulator)
 
 ---
 
@@ -121,9 +121,4 @@ MIT License — see [LICENSE](LICENSE)
 ## 🙏 Credits
 
 - [TFT_eSPI by Bodmer](https://github.com/Bodmer/TFT_eSPI)  
-- [Waveshare RP2040-Zero](https://www.waveshare.com/wiki/RP2040-Zero)  
-- [Bosch Motorsport Sensors](https://www.bosch-motorsport.com/)
 
----
-
-Would you like me to generate this as a downloadable `README.md` file now?  
